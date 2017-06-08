@@ -4,7 +4,7 @@
 	</a>
 </p>
 <p align="center">
-	<a href="https://gitter.im/521dimensions/amplitudejs" target="_blank">
+	<a href="https://gitter.im/peasy" target="_blank">
 		<img src="https://badges.gitter.im/gitterHQ/gitter.svg" alt="Gitter">
 	</a>
 	<a href="https://www.npmjs.com/package/amplitudejs" target="_blank">
